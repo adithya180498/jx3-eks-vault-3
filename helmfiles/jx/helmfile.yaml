@@ -74,6 +74,6 @@ releases:
   - ../../versionStream/charts/jxgh/acme-jx/values.yaml.gotmpl
   - jx-values.yaml
   - issuer:
-	 enabled: false
+   enabled: false
 templates: {}
 renderedvalues: {}
